@@ -21,7 +21,9 @@ J'ai donc trouvé 3 différents moyens:
 
 > Guide d'utilisation
 
-Utiliser l'executable du programme (en maintenance)
+Utiliser l'executable du programme (fait en python)
+Et pour ce qui auraient peur du programme exe je vous ai mis le fichier py (qui doit être installer avec les assets)
+alors que le fichier exe n'a besoin de rien d'autre !
 en cas de problème vous pouvez directement installer les lib avec le fichier "lib.bat"
 Lorsque vous démarrer le programme vous aller lancer un terminale (pour des questions de simpliciter) celui ci va vous demander un nombre de nitro à trouver (metter 1 car sa ne sert à rien de lui en demander plus, ce n'est même pas sur qui les trouvera !) puis après cela il va lancer le programme vous verrez les logs dans la consoles puis après il faut attendre jusqu'à ce qu'il trouve un code, et si par chane il en trouve un il vous fera un fichier txt avec le code dedans (car oui dans la console je me doute q'avec le nombre de log vous ne risquez pas de retrouver le code).
 
