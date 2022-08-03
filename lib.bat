@@ -1,3 +1,3 @@
 @ECHO OFF
 pip install bs4
-py nitro.py
+pip install ascii_magic
